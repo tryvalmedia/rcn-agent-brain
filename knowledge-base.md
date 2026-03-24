@@ -1,85 +1,117 @@
-# RCN Media Buyer Agent — Knowledge Base
-Last updated: auto-updated weekly by Cloudflare Worker
+# RCN Media Buyer Knowledge Base
+**Update Date: 2026-03-24**
 
-## Pay-Per-Call Fundamentals
-- Phone calls convert to jobs 10-15x more than web clicks
-- 84% of marketers say phone calls bring higher-value customers
-- People CLICK when researching. They CALL when ready to buy
-- Roofing calls pay $100-$350/call on the open market — your $40 is a low-risk entry model
-- Pay-per-call market projected to surpass $12 billion by 2026
-- Best traffic sources: Google Call-Only, Facebook "Call Now" ads, native advertising
-- Weather-based campaigns perform exceptionally well for emergency roofing
+## 🚨 CRITICAL META ADS ALERTS
 
-## Meta Ads Best Practices For Calls
-- Use local area code numbers — unfamiliar codes reduce call rates significantly
-- Target users LIVING in areas, not users showing interest in locations
-- Include geo-specific details in visuals and copy
-- Use monthly budgets not daily — more consistent data
-- 4:5 vertical format outperforms square by up to 15% in Feed placements
-- Creative quality drives 70-80% of Meta ad performance — not targeting or budget
-- Video ads outperform images nearly every time for home services
-- Bold captions increase silent-view retention dramatically
-- "Local Notice" hook pattern performs best for roofing ads
-- Before/after photos are the single highest-converting visual for roofing
+### Platform Performance Crisis - March 2026
+- **WIDESPREAD META DEGRADATION**: Multiple reports of significant performance drops starting mid-February 2026, with severe deterioration since March 13
+- **Traffic Quality Collapse**: Previously stable campaigns showing dramatic decreases in conversion quality
+- **ROAS Impact**: Campaigns that maintained 3x ROAS now failing to break even
+- **Account Security Risk**: Meta aggressively banning agency staff personal profiles, including those not managing high-risk accounts
 
-## Google LSA Best Practices
-- LSA rankings in 2025 heavily prioritize: responsiveness, reviews, and proximity
-- Answer calls within 60 seconds — response time directly impacts rankings
-- Target "roof repair near me" and "storm damage roof" as primary intent keywords
-- Roofing average CPL on Google search is $228 — highest of all home services
-- LSA cost per lead is significantly lower than Google Search for roofing
-- Complete your Google Business Profile fully before running LSA
+### Immediate Action Items for RCN:
+1. **Diversify Traffic Sources**: Don't rely solely on Meta for call volume
+2. **Monitor Account Health**: Review all team member access patterns and account associations
+3. **Performance Benchmarking**: Compare current Meta performance against historical data to identify if RCN is experiencing similar degradation
 
-## Home Services Ad Benchmarks (2025)
-- Average CTR for home services search ads: 6.37%
-- Good CTR range: 3-8% for home services
-- Average CPL for home services: $90.92
-- Roofing CPL: $228 (highest in home services)
-- Good conversion rate: 5-15% of clicks become leads
-- Target ROAS: 3:1 or better
-- Cost per click for roofing keywords: up to $40 in competitive markets
+## 📊 TRACKING & ATTRIBUTION CHALLENGES
 
-## Pay-Per-Call Campaign Optimization
-- Only pay for calls over 200 seconds — shorter calls are unlikely to be qualified
-- Use deduplication periods (30 days) to avoid paying for repeat callers
-- Track first-time callers separately — new customers are most valuable
-- Use call recordings to identify objections and improve ad targeting
-- Geo-targeting: filter out calls from outside service areas immediately
-- Route calls by time zone — never send calls outside business hours
-- Shared leads convert poorly — exclusive calls are worth paying more for
+### Pixel Tracking Degradation - 2026
+- **Default Consent Issues**: New consent banners defaulting to "Denied" causing cookieless tracking
+- **Enhanced Conversions Limitations**: Even with Enhanced Conversions, pixel accuracy significantly compromised
+- **Modeling Problems**: Attribution showing conversions for irrelevant search terms and non-converting landing pages
 
-## Roofing-Specific Media Buying
-- Storm corridor states = highest demand: TX, OK, KS, NE, MO, IA, IL, OH, CO
-- California = energy/solar upsell opportunity on top of roofing
-- Hurricane states = FL, LA, SC, NC (peak season June-November)
-- Hail belt = TX to MN corridor (peak season April-July)
-- Winter states = MN, WI, MI, NY (ice dam damage, Jan-March)
-- Best performing roofing hook: storm damage urgency + professional assessment
-- Second best: "hidden damage" angle — damage invisible from ground
-- Third best: homeowner protection / investment protection angle
-- Compliance rule: NO free services, NO insurance references, NO incentives
+### RCN Implications:
+- Expect less accurate call tracking attribution from Meta pixels
+- Consider server-side tracking solutions for more reliable call conversion data
+- Implement first-party data collection strategies for roofing lead qualification
 
-## Ad Creative Intelligence
-- Competitor pattern: "Local Notice" opener performs best (mimics news alert)
-- Bullet-point pain checklist in body copy outperforms paragraphs
-- Phone number BOLD on creative image = proven top-performer
-- Before/after split image with BEFORE/AFTER labels stops scroll
-- Red call-to-action strip with white phone number = highest click-through
-- A/B test 3 hooks simultaneously at $20/day each for 7 days
-- Kill underperformers after 7 days, scale the winner
-- Refresh creatives every 3-4 weeks to avoid ad fatigue
+## 🔧 AUTOMATION & EFFICIENCY TOOLS
 
-## Budget Strategy
-- Start: $20-50/day per variant to gather data
-- Scale: Once cost-per-call is proven, increase budget 20% every 3 days
-- Never increase budget more than 20% at once — resets learning phase
-- Allocate 70% budget to winner, 30% to testing new creatives always
-- To hit 25 calls/day at $40/call = need $1,000/day ad spend at 4% conversion
-- Reduce target cost-per-call as volume grows through optimization
+### Custom PPC Tool Development
+- **Budget Management Automation**: Tools for automated budget allocation across campaigns
+- **Search Terms Analysis**: Automated negative keyword identification and expansion opportunities
+- **Time-Saving Approach**: Audit daily/weekly tasks first, then automate biggest time-sinks
 
-## What's Working Right Now (2026)
-- Advantage+ audience on Meta outperforms manual targeting for home services
-- Video UGC-style ads (authentic, not polished) convert better than studio ads
-- Weather-triggered campaign activation = highest ROI strategy in roofing
-- Google LSA + Meta combo = more efficient than either platform alone
-- Call-only campaigns on Google outperform standard search
+### For RCN Call Campaigns:
+- Automate bid adjustments based on call quality scores
+- Build automated reports linking call outcomes to keyword performance
+- Create tools to identify high-intent roofing keywords from search term reports
+
+## 💰 SCALING STRATEGIES
+
+### Campaign Structure for Scale
+- **Proven Structure**: From $1K to $10K daily spend using consistent campaign architecture
+- **Testing Framework**: Systematic approach to creative and audience testing before scaling
+- **Performance Monitoring**: Stable campaigns for days/weeks before significant budget increases
+
+### RCN Scaling Protocol:
+1. Test new roofing ad creative at low budgets first
+2. Scale only after consistent call quality metrics
+3. Monitor cost-per-call trends during scaling phases
+4. Maintain separate campaign structures for different roofing services (repair vs. replacement)
+
+## 🎯 CONVERSION OPTIMIZATION INSIGHTS
+
+### Website Foundation Requirements
+- **Analytics Implementation**: Many businesses lack basic website analytics setup
+- **Conversion Tracking**: Custom events on call buttons and contact forms often missing
+- **User Experience**: Poor website UI significantly impacts ad performance regardless of targeting
+
+### RCN Website Audit Checklist:
+- Verify call button tracking on all roofing service pages
+- Ensure mobile-optimized phone number display
+- Test page load speeds for roofing landing pages
+- Implement heat mapping to optimize call-to-action placement
+
+## 📱 TECHNICAL IMPLEMENTATION
+
+### Retargeting Precision
+- **Avoid Waste**: Prevent ads from showing to users already on website/conversion pages
+- **Audience Exclusions**: Implement proper exclusion lists to avoid paying for existing traffic
+
+### For RCN Call Campaigns:
+- Exclude recent callers from awareness campaigns
+- Create separate audiences for different stages of roofing decision process
+- Implement frequency capping to avoid oversaturating potential customers
+
+## 🔍 CLIENT COMMUNICATION STRATEGIES
+
+### Attribution Education
+- **Multi-Channel Impact**: Clients often don't understand how different channels work together
+- **Historical Context**: Previous SEO performance can skew perception of paid ads effectiveness
+- **Long-term Value**: Educate on building sustainable lead generation vs. relying on single channels
+
+### For RCN Client Reporting:
+- Show call quality metrics alongside call volume
+- Demonstrate incremental lift from paid ads
+- Compare cost-per-acquisition across all roofing lead sources
+- Highlight seasonal roofing demand patterns in performance data
+
+## 📈 PERFORMANCE MONITORING
+
+### Daily Monitoring Metrics
+- **Cost-Per-Click Trends**: Sudden increases may indicate platform issues or increased competition
+- **Conversion Rate Changes**: Track call conversion rates from clicks to identify quality shifts
+- **Creative Performance**: Monitor CTR and call completion rates by ad creative
+
+### RCN Alert Thresholds:
+- CPC increases >30% day-over-day without bid changes
+- Call conversion rate drops >20% from weekly average
+- Call quality scores declining across multiple campaigns
+
+## 🎨 CREATIVE STRATEGY IMPLICATIONS
+
+### Traffic Quality Focus
+- **Quality Over Volume**: Current Meta issues highlight importance of qualified traffic
+- **Roofing-Specific Creative**: Use imagery and copy that pre-qualifies homeowners with roofing needs
+- **Urgency Messaging**: Leverage weather events and seasonal roofing maintenance cycles
+
+### RCN Creative Testing:
+- Test problem-focused vs. solution-focused roofing ad copy
+- A/B test emergency roofing messaging against preventive maintenance angles
+- Monitor which creative styles generate highest-quality calls (not just most calls)
+
+---
+
+**Key Takeaway**: The current Meta advertising landscape requires diversified traffic strategies and enhanced focus on conversion quality over volume. RCN should prioritize first-party data collection and multi-channel attribution while the industry navigates these platform reliability issues.
